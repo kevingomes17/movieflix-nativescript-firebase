@@ -20,6 +20,8 @@
 		"@angular/router": "~4.2.0",
 		"nativescript-angular": "~4.2.0",
 		"nativescript-theme-core": "~1.0.4",
+		"nativescript-videoplayer": "^3.1.0",
+		"nativescript-youtube-parser": "^1.1.0",
 		"reflect-metadata": "~0.1.8",
 		"rxjs": "~5.4.2",
 		"tns-core-modules": "~3.1.1",

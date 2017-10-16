@@ -5,12 +5,18 @@ import { NativeScriptFormsModule } from "nativescript-angular/forms";
 import { AppComponent } from "./app.component";
 import { LoginComponent } from "./components/login/login.component";
 import { DashboardComponent } from "./components/dashboard/dashboard.component";
+import { DetailsComponent } from "./components/details/details.component";
+import { MediaPlayerComponent } from "./components/media-player/media-player.component";
+import { MediaThumbComponent } from "./components/media-thumb/media-thumb.component";
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
-    DashboardComponent
+    DashboardComponent,
+    DetailsComponent,
+    MediaPlayerComponent,
+    MediaThumbComponent
   ],
   bootstrap: [LoginComponent],
   imports: [
