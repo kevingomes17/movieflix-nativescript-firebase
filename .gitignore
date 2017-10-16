@@ -1,2 +1,4 @@
 movieflix/node_modules/
 movieflix/platforms/
+*.js
+movieflix/.vscode/
